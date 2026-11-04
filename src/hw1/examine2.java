@@ -1,6 +1,6 @@
 package hw1;
 
-public class examine2 {
+public class Examine2 {
 	public static void main(String[] args) {
 		int numEggs = 200;
 		int dozenEggs = numEggs / 12;

@@ -1,6 +1,6 @@
 package hw1;
 
-public class examine3 {
+public class Examine3 {
 	public static void main(String[] args) {
 		int seconds = 256559;
 		int daysConvert = seconds / 86400; //一天標準定義有 86,400 秒
