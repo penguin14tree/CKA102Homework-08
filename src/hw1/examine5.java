@@ -1,6 +1,6 @@
 package hw1;
 
-public class examine5 {
+public class Examine5 {
 	public static void main(String[] args) {
 		int principal = 1500000;
 		double interestRate = 0.03;

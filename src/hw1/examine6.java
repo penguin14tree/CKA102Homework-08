@@ -1,6 +1,6 @@
 package hw1;
 
-public class examine6 {
+public class Examine6 {
 	public static void main(String[] args) {
 		int num = 5;
 		char charater = '5';
